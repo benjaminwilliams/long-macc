@@ -1,6 +1,7 @@
 Long Macc (Long Macchiato) is a coffee flavoured color scheme with pastel highlights.
 
-## Screenshots
+
+![Preview](images/preview.png)
 
 ## Palette
 
