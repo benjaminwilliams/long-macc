@@ -9,8 +9,15 @@ Long Macc (Long Macchiato) is a coffee flavoured color scheme with pastel highli
 
 ## Ports
 
+- [i3](https://github.com/benjaminwilliams/long-macc/blob/main/apps/i3/long-macc)
 - [Kitty](https://github.com/benjaminwilliams/long-macc/tree/main/apps/kitty)
 - [Rofi](https://github.com/benjaminwilliams/long-macc/tree/main/apps/rofi)
+- [VsCode](https://github.com/benjaminwilliams/long-macc/blob/main/apps/vscode/long-macc.json)
+- [Waybar](https://github.com/benjaminwilliams/long-macc/blob/main/apps/waybar/long-macc.css)
+
+## Formats
+
+- [Sass](https://github.com/benjaminwilliams/long-macc/blob/main/apps/scss.scss)
 
 
 ## Colours
