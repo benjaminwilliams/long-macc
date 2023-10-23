@@ -16,9 +16,9 @@ Long Macc (Long Macchiato) is a coffee flavoured color scheme with pastel highli
 
 | swatch                                                    | Name  | Hex     |
 | ------                                                    | ----- | ------- |
-|![#1c120d](https://placehold.co/20x20/1c120d/1c120d.png)   | bg0   | #1c120d |
-|bg1 | #261a15 |
-|bg2 | #372922 |
+|![#1c120d](https://placehold.co/25x25/1c120d/1c120d.png)   | bg0   | #1c120d |
+![#1c120d](https://placehold.co/25x25/261a15/261a15.png)    | bg1   | #261a15 |
+![#1c120d](https://placehold.co/25x25/372922/372922.png)    | bg2   | #372922 |
 |bg3 | #473b34 |
 |bg4 | #685c56 |
 |fg0 | #e6d2c8 |
